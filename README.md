@@ -1,0 +1,1 @@
+# A-refined-brute-force-method-to-inform-simulation-of-ordinal-response-data
